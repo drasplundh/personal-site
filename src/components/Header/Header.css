@@ -1,0 +1,11 @@
+header {
+    font-family: "Work Sans", sans-serif;
+    padding: 10px;
+    background-color: #634B66;
+}
+
+header h1 {
+    -webkit-text-stroke: 20px, black;
+    -webkit-text-fill-color: white;
+
+}

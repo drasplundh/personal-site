@@ -1,0 +1,15 @@
+.text-box {
+    position: relative;
+    top: 100px;
+    left: 100px;
+    border-radius: 50px;
+    background-color: black;
+    width: 750px;
+    height: 500px;
+}
+
+.text-box p {
+    padding: 4px;
+    font-family: "Work Sans", sans-serif;
+    color: white;
+}

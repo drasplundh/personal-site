@@ -1,0 +1,13 @@
+.navbar {
+    background-color: #18020C;
+    padding: 8px;
+    text-align: center;
+    box-shadow: -1px 15px 21px 0px rgb(255, 255, 255, .3)
+}
+
+.navbar a {
+    text-decoration: none;
+    font-family: "Work Sans", sans-serif;
+    color: white;
+    padding: 10px;
+}

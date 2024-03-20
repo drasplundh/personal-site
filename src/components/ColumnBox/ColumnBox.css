@@ -1,0 +1,12 @@
+.column-box {
+    display: flex;
+    flex-direction: column;
+}
+
+#left {
+    flex: 1;
+}
+
+#right {
+    flex: 1;
+}
